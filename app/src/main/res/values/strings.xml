@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Notes App Testing</string>
+    <string name="add_a_note">Add a note</string>
+    <string name="title">Title</string>
+    <string name="description">Description</string>
+    <string name="save">Save</string>
+    <string name="search_image">Search Image</string>
+    <string name="image">image</string>
+    <string name="notes">%1$s Notes</string>
+    <string name="error_saving_note">Invalid Info</string>
+    <string name="sort_by_date">Sort by date</string>
+    <string name="sort_by_title">Sort by title</string>
+    <string name="d">D</string>
+    <string name="t">T</string>
+</resources>
